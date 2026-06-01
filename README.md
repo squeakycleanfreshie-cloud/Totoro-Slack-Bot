@@ -1,4 +1,4 @@
-# 🌿 Totoro Slack Bot
+# Totoro Slack Bot
 
 A Totoro-themed Slack bot built with Node.js and Slack Bolt, hosted on Hack Club Nest.
 
